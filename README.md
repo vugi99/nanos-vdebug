@@ -1,2 +1,3 @@
 # nanos-vdebug
-Visual debug tool
+* Show informations about entities on screen
+* Monitor events (Server/Client)
