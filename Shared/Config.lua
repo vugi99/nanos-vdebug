@@ -246,11 +246,6 @@ VDEBUG_CLASSES = {
             "Unload",
         },
     },
-    Render = {
-        Client_Events = {
-            "ViewportResized",
-        },
-    },
     Server = {
         Server_Events = {
             "Chat",
